@@ -6,6 +6,8 @@
 - 💼 All of my projects are available at (https://balsero.github.io/portfolio/)
 - 📫 How to reach me: jonathan.rodrigueztames@gmail.com
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balsero&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 ### Tech Stack
 <p align="center">
   <a href="https://www.w3schools.com/html/" target="_blank">

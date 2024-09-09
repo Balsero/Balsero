@@ -57,7 +57,7 @@
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balsero&layout=compact&theme=dark)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Balsero)](https://github.com/Balsero/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Balsero)](https://github.com/Balsero/Balsero)
 
 
 ### GitHub Streak

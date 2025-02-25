@@ -2,7 +2,7 @@
 
 ### About Me
 - 🔭 I’m currently working on  Game Development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning React and JavaScript
 - 💼 All of my projects are available at (https://balsero.github.io/portfolio/)
 - 📫 How to reach me: jonathan.rodrigueztames@gmail.com
 

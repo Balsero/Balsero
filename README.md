@@ -61,5 +61,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balsero&layout=compact&&theme=dracula)
 
 ### Hours spend 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Balsero/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Balsero)](https://github.com/Balsero/github-readme-stats)
 

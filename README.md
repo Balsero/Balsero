@@ -91,26 +91,6 @@
   </a>
 </p>
 
-<p align="center">
-
-<!-- Tools -->
-<a href="https://github.com/" target="_blank">
-<img src="https://img.icons8.com/?size=48&id=bVGqATNwfhYq&format=png" alt="Github"/>
-</a>
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png" alt="Visual Studio Code"/>
-</a>
-<a href="https://visualstudio.microsoft.com/" target="_blank">
-<img src="https://img.icons8.com/?size=48&id=y7WGoWNuIWac&format=png" alt="Visual Studio"/>
-</a>
-<a href="https://unity.com/" target="_blank">
-<img src="https://img.icons8.com/?size=48&id=IPzemd2v4Ubj&format=png" alt="Unity"/>
-</a>
-<a href="https://www.docker.com" target="_blank">
-<img src="https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png" alt="Docker"/>
-</a>
-
-</p>
 
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balsero&layout=compact&&theme=dracula)

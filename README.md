@@ -94,8 +94,8 @@
 
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balsero&layout=compact&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Balsero&theme=dracula)
 
-### Hours Spent
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Balsero&layout=compact)
+### Hours Spent Coding
+[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
 

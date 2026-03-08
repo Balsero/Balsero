@@ -7,7 +7,7 @@
 - 📫 How to reach me: jonathan.rodrigueztames@gmail.com
 
   ### GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balsero)](https://github.com/Balsero/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Balsero&theme=radical)
 
 ### Tech Stack
 

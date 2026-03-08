@@ -6,7 +6,8 @@
 - 💼 All of my projects are available at (https://balsero.github.io/portfolio/)
 - 📫 How to reach me: jonathan.rodrigueztames@gmail.com
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balsero&show_icons=true&theme=radical)
+  ### GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Balsero&show_icons=true&theme=radical)
 
 ### Tech Stack
 
@@ -93,8 +94,8 @@
 
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balsero&layout=compact&&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balsero&layout=compact&theme=dracula)
 
-### Hours spend 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Balsero)](https://github.com/Balsero/github-readme-stats)
+### Hours Spent
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Balsero&layout=compact)
 

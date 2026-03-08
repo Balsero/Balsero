@@ -96,6 +96,6 @@
 ### Most Used Languages
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Balsero&theme=dracula)
 
-### Coding Activity
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Balsero&layout=compact&theme=dracula)
+### Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Balsero&theme=dracula)
 

@@ -1,70 +1,100 @@
-# Hi, I'm Jonathan Rodriguez Tames
+## Hi 👋, I'm Jonathan Rodriguez Tames
 
-Software Engineering student at ETS in Montreal, focused on frontend development, full-stack systems, and game development.
+### About Me
+- 🔭 I’m currently working on  Game Development
+- 🌱 I’m currently learning React and JavaScript
+- 💼 All of my projects are available at (https://balsero.github.io/portfolio/)
+- 📫 How to reach me: jonathan.rodrigueztames@gmail.com
 
-I enjoy building interactive products with React, Angular, TypeScript, C#, and Unity. My recent work includes frontend features for an industrial visual inspection platform, full-stack web apps with Supabase/PostgreSQL, and gameplay prototypes built during game jams.
+  ### GitHub Stats
+!GitHub Streak
 
-[GitHub](https://github.com/Balsero) - [Email](mailto:jonathan.rodrigueztames@gmail.com)
+### Tech Stack
 
-## Currently
+<p align="center">
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=v8RpPQUwv0N8&format=png" alt="HTML"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=21278&format=png" alt="CSS"/>
+  </a>
+  <a href="https://www.javascript.com" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=108784&format=png" alt="JavaScript"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=nCj4PvnCO0tZ&format=png" alt="TypeScript"/>
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=71257&format=png" alt="Angular"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png" alt="Node.js"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=13441&format=png" alt="Python"/>
+  </a>
+</p>
 
-- Building stronger React and JavaScript projects with clean components and reusable UI patterns.
-- Improving my game development workflow with Unity, C#, gameplay systems, HUDs, combat mechanics, and enemy AI.
-- Growing as a software engineer through frontend architecture, testing, debugging, and maintainable code.
+<p align="center">
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=13679&format=png" alt="Java"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=55251&format=png" alt="C#"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=40670&format=png" alt="C"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=40669&format=png" alt="C++"/>
+  </a>
+</p>
 
-## Featured Projects
+<p align="center">
+  <a href="https://supabase.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=ewGOClUtmFX4&format=png" alt="Supabase"/>
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=14701&format=png" alt="Redis"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=EPbEfEa7o8CB&format=png" alt="Postman"/>
+  </a>
+  <a href="https://junit.org/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=39848&format=png" alt="JUnit"/>
+  </a>
+  <a href="https://www.latex-project.org/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=WBooq2dInw0x&format=png" alt="LaTeX"/>
+  </a>
+</p>
 
-### Anime Best Quotes
-Web app for browsing, voting, and sharing anime quotes.
+<p align="center">
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=bVGqATNwfhYq&format=png" alt="Github"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png" alt="Visual Studio Code"/>
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=y7WGoWNuIWac&format=png" alt="Visual Studio"/>
+  </a>
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png" alt="Docker"/>
+  </a>
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=IPzemd2v4Ubj&format=png" alt="Unity"/>
+  </a>
+  <a href="https://www.unrealengine.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=69503&format=png" alt="Unreal Engine"/>
+  </a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=SAZw8WuWnQea&format=png" alt="Discord"/>
+  </a>
+</p>
 
-**Tech:** React, JavaScript, HTML, CSS, Supabase, PostgreSQL
 
-- Built reusable React components and connected the UI to a Supabase backend.
-- Implemented voting, browsing, and data persistence features.
-- Improved rendering and interactions using JavaScript array methods and component state.
+### Most Used Languages
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Balsero&theme=dracula)
 
-### Spectral Crusade: Joan's Legacy
-Playable metroidvania / Souls-like prototype built during a game jam.
-
-**Tech:** Unity, C#
-
-- Implemented combat mechanics, exploration systems, and character progression logic.
-- Contributed to enemy AI, inventory, HUD, audio integration, and skill systems.
-
-### Resistance of the Forgotten Kingdom
-Roguelike game prototype built during a game jam.
-
-**Tech:** Unity, C#
-
-- Designed combat mechanics, progressive upgrades, and HUD elements.
-- Integrated core gameplay systems and supported overall game logic.
-
-### STM Tracking Service
-Distributed tracking service developed with backend and infrastructure tooling.
-
-**Tech:** C#, .NET, Docker, Kubernetes, Redis, REST API
-
-- Designed service communication inside a distributed architecture.
-- Improved availability and reliability through containerization and orchestration.
-
-## Tech Stack
-
-**Languages:** JavaScript, TypeScript, C#, Java, Python, C, C++, HTML, CSS  
-**Frontend:** React, Angular, RxJS, Tailwind CSS, SCSS  
-**Backend & Data:** .NET, REST APIs, PostgreSQL, Supabase, Redis, RabbitMQ, gRPC  
-**Testing:** Jest, JUnit, React Testing Library, Playwright  
-**Tools:** Git, GitLab, Docker, Kubernetes, Postman, Maven, Visual Studio, VS Code, IntelliJ, LaTeX  
-**Game Development:** Unity, Unreal Engine
-
-## GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Balsero&theme=radical)
-
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Balsero&theme=dracula)
-
-![Jonathan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Balsero&theme=dracula)
-
-## Contact
-
-- Email: [jonathan.rodrigueztames@gmail.com](mailto:jonathan.rodrigueztames@gmail.com)
-- GitHub: [github.com/Balsero](https://github.com/Balsero)
+### Contribution Graph
+!Jonathan's github activity graph 

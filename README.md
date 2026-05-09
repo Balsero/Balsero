@@ -7,7 +7,7 @@
 - 📫 How to reach me: jonathan.rodrigueztames@gmail.com
 
   ### GitHub Stats
-!GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Balsero&theme=radical)
 
 ### Tech Stack
 
@@ -98,3 +98,4 @@
 
 ### Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Balsero&theme=dracula)
+![Jonathan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Balsero&theme=dracula)

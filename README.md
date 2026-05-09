@@ -96,5 +96,5 @@
 ### Most Used Languages
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Balsero&theme=dracula)
 
-### Contribution Graph
-!Jonathan's github activity graph 
+### Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Balsero&theme=dracula)
